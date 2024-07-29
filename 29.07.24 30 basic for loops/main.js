@@ -55,3 +55,7 @@
 //console.log("hello");
 //}
 //q13
+//for (let i = 0; i <3; i++){
+//    console.log(i,"!");
+//}
+//q14
