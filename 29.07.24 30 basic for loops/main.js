@@ -1,4 +1,4 @@
-//q1
+//q1 basic counting
 //for (let i = 0; i <= 5; i++){
 //    console.log(i);
 //}
@@ -36,3 +36,22 @@
 //    console.log(i);
 //}
 //q9
+//for (let i = 10; i >=0; i-=2){
+//   console.log(i);
+//}
+///q10
+//for (let i =5; i <=25; i+=5){
+//    console.log(i);
+//}
+//q11  printing patterns
+//let output
+//for (let i = 0; i <5; i++){
+//output +="*"
+//}
+//console.log(output);
+//q12
+//let greeting;
+//for (i =0; i <3; i++){
+//console.log("hello");
+//}
+//q13
