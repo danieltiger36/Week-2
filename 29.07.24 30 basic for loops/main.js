@@ -59,6 +59,6 @@
 //    console.log(i,"!");
 //}
 //q14
-for (let i = 0; i<5; i++){
-    console.log(string.fromCharCode);
-}
+//for (let i = 0; i<5; i++){
+//    console.log(string.fromCharCode);
+//}
